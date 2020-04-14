@@ -14,10 +14,10 @@ import seaborn as sns
 
 
 # Variables that contains the credentials to access Twitter API
-ACCESS_TOKEN = '195257267-gRf3Z4LzQxi1Rsd7JzSzX6z5AynGILx9Gau7athR'
-ACCESS_SECRET = 'mTM4Y2nYSc9F2AWdz2gE3ZTETxGIZIlqaU2bE8LK7PFbV'
-CONSUMER_KEY = 'o9OwWjiOukxq0FUGxkiQBfYIG'
-CONSUMER_SECRET = 'ETAVneQWZKl8P92E8hMM6nRjX2PjUxjZbbbbp8DQx1XOtT0vJ6'
+ACCESS_TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxx'
+ACCESS_SECRET = 'xxxxxxxxxxxxxxxxxxxxxxxxxx'
+CONSUMER_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxx'
+CONSUMER_SECRET = 'xxxxxxxxxxxxxxxxxxxxxxxx'
 
 #Setup access to API
 # Setup access to API
