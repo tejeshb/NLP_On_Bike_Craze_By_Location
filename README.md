@@ -22,7 +22,8 @@ The purpose of this project is to use the Natural Language Processing techniques
 * Json
 * Pandas, jupyter
 * HTML
-*PLease look at requirements file [here] (https://github.com/tejeshb/Near_RealTime_NLP_On_Bike_Craze_By_Location/blob/master/requirements.txt)
+
+* PLease look at requirements file [here](https://github.com/tejeshb/Near_RealTime_NLP_On_Bike_Craze_By_Location/blob/master/requirements.txt)
 
 
 ## Project Description
@@ -37,7 +38,7 @@ Twitter API (free tier) is used to get the tweets based on bike names. All the t
 2. Raw Data is extracted from wikipedia page [here]( https://en.wikipedia.org/wiki/List_of_motorcycle_manufacturers)
 3. Wikipedia page extration file is kept [here](https://github.com/tejeshb/Near_RealTime_NLP_On_Bike_Craze_By_Location/blob/master/wiki.py)
 4. Location extraction / near by location search is done [here](https://github.com/tejeshb/Near_RealTime_NLP_On_Bike_Craze_By_Location/blob/master/loc.py)
-5.Twitter API script to call, search, preprocess, clean and Visulaize can be found [here] [https://github.com/tejeshb/Near_RealTime_NLP_On_Bike_Craze_By_Location/blob/master/twitter.py]
+5. Twitter API script to call, search, preprocess, clean and Visulaize can be found [here] [https://github.com/tejeshb/Near_RealTime_NLP_On_Bike_Craze_By_Location/blob/master/twitter.py]
 
 
 
