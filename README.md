@@ -42,7 +42,7 @@ Twitter API (free tier) is used to get the tweets based on bike names. All the t
 
 ## Notebook
 
-Please find the [notebook](https://github.com/tejeshb/Near_RealTime_NLP_On_Bike_Craze_By_Location/blob/master/Bike and Twitter.ipynb) to get a quick grasp at the whole project.
+Please find the [notebook](https://github.com/tejeshb/NLP_On_Bike_Craze_By_Location/blob/master/Bike%20and%20Twitter.ipynb) to get a quick grasp at the whole project.
 
 
 
