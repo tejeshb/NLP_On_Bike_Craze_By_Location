@@ -40,6 +40,10 @@ Twitter API (free tier) is used to get the tweets based on bike names. All the t
 4. Location extraction / near by location search is done [here](https://github.com/tejeshb/Near_RealTime_NLP_On_Bike_Craze_By_Location/blob/master/loc.py)
 5. Twitter API script to call, search, preprocess, clean and Visulaize can be found [here](https://github.com/tejeshb/Near_RealTime_NLP_On_Bike_Craze_By_Location/blob/master/twitter.py)
 
+## Notebook
+
+Please find the [notebook](https://github.com/tejeshb/Near_RealTime_NLP_On_Bike_Craze_By_Location/blob/master/Bike and Twitter.ipynb ) to get a quick grasp at the whole project.
+
 
 
 #### My Details:
