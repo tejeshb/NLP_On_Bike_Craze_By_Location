@@ -10,7 +10,7 @@ geographiclib==1.50
 geopy==1.21.0
 idna==2.9
 kiwisolver==1.2.0
-lxml==4.5.0
+lxml==4.6.5
 matplotlib==3.2.1
 nltk==3.4.5
 numpy==1.18.2
